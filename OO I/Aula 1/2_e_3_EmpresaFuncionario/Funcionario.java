@@ -9,6 +9,7 @@ public class Funcionario
     private String nome;
     private Double valorHora;
     private Integer horasTrabalhadas;
+    
     public Funcionario(String nome, Double valorHora, Integer horasTrabalhadas) {
         this.nome = nome;
         this.valorHora = valorHora;
